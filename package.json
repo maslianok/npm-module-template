@@ -1,0 +1,38 @@
+{
+  "name": "npm-module-template",
+  "version": "0.0.1",
+  "description": "npm module template",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^10.0.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-minify": "^0.5.1",
+    "cross-env": "^6.0.3",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "jest": "^24.9.0",
+    "rimraf": "^3.0.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maslianok/npm-module-template.git"
+  },
+  "keywords": [
+    "javascript",
+    "floating-point",
+    "floating"
+  ],
+  "author": "Vitalii Maslianok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maslianok/npm-module-template/issues"
+  },
+  "homepage": "https://github.com/maslianok/npm-module-template#readme"
+}
