@@ -18,6 +18,11 @@ Create your own module in 3 simple steps:
 
 1. Press "Use this template" button and type a name of your new module
 
-2. Add some fancy logic to `src` folder and run `yarn build`
+2. Add some fancy logic to `src` folder
 
-3. Publish your module `npm publish`
+3. Run `yarn build` to build the module and publish it using `npm publish`
+
+Optional:
+
+- describe you module's API in the README.md file
+- add unit tests
