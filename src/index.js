@@ -1,3 +1,7 @@
-export default function() {
-  console.log('Awesome module!');
+/**
+ * your code goes here
+ * */
+
+export default function myModule(a, b) {
+  return a + b;
 }
