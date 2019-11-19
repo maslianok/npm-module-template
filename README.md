@@ -18,7 +18,7 @@ Create your own module in 3 simple steps:
 
 1. Press "Use this template" button and type a name of your new module
 
-<img width="739" alt="Screenshot 2019-11-19 at 17 55 23" src="https://user-images.githubusercontent.com/3485490/69136521-f2809600-0af5-11ea-9758-d916c853f4c0.png">
+<img width="701" alt="Screenshot 2019-11-19 at 17 58 17" src="https://user-images.githubusercontent.com/3485490/69136644-3378aa80-0af6-11ea-8164-ed99a303bfab.png">
 
 2. Add some fancy logic to `src` folder
 
